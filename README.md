@@ -1,16 +1,18 @@
-## Hi there 👋
+# wukuna
 
-<!--
-**wukuna/wukuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building RuneLite plugins that make chat, menus, and interface layouts easier to customize.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- **[Improved Chat](https://github.com/wukuna/improved-chat)** — Custom chat overlays, filtering, message styling, and native chat controls.
+- **[Menu Workshop](https://github.com/wukuna/improved-menus)** — Menu cleanup, misclick protections, item rules, and colors.
+- **[Interface Layout](https://github.com/wukuna/interface-layout)** — Custom layouts for the minimap, orbs, compass, and menu stones.
+
+## To Report Issues
+
+---
+
+1. Open the relevant project's issue tracker: [Improved Chat](https://github.com/wukuna/improved-chat/issues), [Menu Workshop](https://github.com/wukuna/improved-menus/issues), or [Interface Layout](https://github.com/wukuna/interface-layout/issues). Check existing reports before creating a new one.
+2. Include steps to reproduce, expected and actual behavior, your RuneLite and plugin versions, and relevant screenshots or error messages.
