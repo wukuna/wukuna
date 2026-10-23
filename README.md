@@ -2,9 +2,11 @@
 
 Building RuneLite plugins that make chat, menus, and interface layouts easier to customize.
 
-- **[Improved Chat](https://github.com/wukuna/improved-chat)** — Custom chat overlays, filtering, message styling, and native chat controls.
-- **[Menu Workshop](https://github.com/wukuna/improved-menus)** — Menu cleanup, misclick protections, item rules, and colors.
+- **[Improved Chat & Overlays](https://github.com/wukuna/improved-chat)** — Custom chat overlays, filtering, message styling, and native chat controls.
+- **[Improved Right-Clicks](https://github.com/wukuna/improved-menus)** — Menu cleanup, misclick protections, item rules, and colors.
 - **[Interface Layout](https://github.com/wukuna/interface-layout)** — Custom layouts for the minimap, orbs, compass, and menu stones.
+
+... and a couple of other projects TBA.
 
 
 ## To Report Issues
